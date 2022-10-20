@@ -1,0 +1,16 @@
+{
+"name": "jaideeslot",
+"theme": "jaidee slot",
+"version": "9.9.1",
+"description": "jaidee slot ทางเข้าเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+"keywords": [
+"jaidee slot",
+"jaidee slot เครดิตฟรี",
+"jaidee slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jaideeslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
